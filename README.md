@@ -9,7 +9,7 @@ I've got through the head-scratching experience, so I put my final package here 
 
 ## About ros package version
 
-* `ros2-humble-2022.11.23-1-any.pkg.tar.zst`: built from [aur/ros2-humble](https://aur.archlinux.org/packages/ros2-humble), if your want to build yourself, try `yay -Sy ros2-humble`. Thanks for the work from @m2-farzan.
+* `ros2-humble-2022.11.23-1-any.pkg.tar.zst`: built from [aur/ros2-humble](https://aur.archlinux.org/packages/ros2-humble) (corresponding Github rep: [m2-farzan/ros2-humble-PKGBUILD](https://github.com/m2-farzan/ros2-humble-PKGBUILD)), if your want to build yourself, try `yay -Sy ros2-humble`. Thanks for the work from @m2-farzan.
 
 
 ## How to install the package
