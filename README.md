@@ -1,6 +1,6 @@
 ## About this repository
 
-Here provides ros packages for Arch Linux or Manjaro Linux, so that if you don't have to build from source yourself.
+Here provides ros packages for Arch Linux or Manjaro Linux, so that you don't have to build from source yourself.
 
 This is not an official repository by [ROS](https://www.ros.org). 
 
